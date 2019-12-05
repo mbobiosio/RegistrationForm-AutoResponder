@@ -1,5 +1,8 @@
 <?php
-
+$hostmysql = "localhost";
+$username = "regis_test";
+$password = "123456";
+$database = "regist_db";
 
 $conn = @mysql_connect("$hostmysql","$username","$password");
 
