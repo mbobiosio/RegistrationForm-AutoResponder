@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="TalentBox Concept">
-    <meta name="keyword" content="Sign Up">
+    <meta name="keyword" content="Registration, Autoresponder, php">
 
     <title>Sign Up - TalentBox Concept</title>
 
@@ -57,7 +57,7 @@
           <div class="form-login-footer">
             <footer class="site-footer">
               <div class="text-center">
-                <a href="https://talentboxconcept.com">TalentBox Concept</a>
+                <a href="https://www.talentboxconcept.com">TalentBox Concept</a>
               </div>
             </footer>
           </div>

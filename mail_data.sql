@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS `User` (
 --
 
 INSERT INTO `User` (`id`, `name`, `email`, `phone`, `occupation`) VALUES
-('BYCrdwVR3t', 'Nurul Afrianti', 'mail@nurulafrianti.id', '1234567890', 'Developer');
+('BYCrdwVR3t', 'TalentBox Concept', 'datacenter@talentboxconcept.com', '1234567890', 'Developer');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
