@@ -48,6 +48,8 @@ include 'library/class.phpmailer.php';
         <b>Automatic Email by TalentBox Concept</b>
         </body>";
         
+
+        //GMAIL Configuration
         $mail->IsSMTP();    //  SMTP
         $mail->SMTPDebug  = 0;   //  debug SMTP
 
@@ -55,8 +57,8 @@ include 'library/class.phpmailer.php';
         $mail->SMTPSecure = "tls";                 
         $mail->Host       = "smtp.gmail.com";      // GMAIL SMTP server
         $mail->Port       = 587; 
-        $mail->Username   = "noreplyaccemailconfirm@gmail.com"; // username email
-        $mail->Password   = "passwordsaya";        // password email 
+        $mail->Username   = "noreplytalentbox@gmail.com"; // username email
+        $mail->Password   = "password";        // email password 
 
         $mail->SetFrom($email, "No-Reply Email Registration");  // sent from
         $mail->Subject    = "New Registration ($id)"; // email subject
